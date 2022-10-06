@@ -59,6 +59,8 @@
 ## EXPERIMENT 13 OUTPUT
 ![image](https://user-images.githubusercontent.com/112066277/194227305-91191a6a-858e-42ef-aa3e-57da2f8ac154.png)
 ## EXPERIMENT 14 OUTPUT
+![image](https://user-images.githubusercontent.com/112066277/194228244-b58a9a60-1202-418f-a258-daa75831f3a7.png)
+
 
 
 
