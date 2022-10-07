@@ -82,6 +82,8 @@
 ![image](https://user-images.githubusercontent.com/112066277/194509190-1c4c6a59-e0d4-4735-a415-6b5687d1f77d.png)
 ## EXPRIMENT 23 OUTPUT
 ![image](https://user-images.githubusercontent.com/112066277/194510154-0f3fd4f7-df87-4168-a232-54cf6f5982c1.png)
+![image](https://user-images.githubusercontent.com/112066277/194510487-8c5708b1-8dd2-45b4-96a5-21a57b96dad9.png)
+
 
 
 
