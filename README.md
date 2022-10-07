@@ -77,6 +77,10 @@
 ![image](https://user-images.githubusercontent.com/112066277/194508098-b380597d-2602-4e54-b1a4-e98cf57a4972.png)
 ![image](https://user-images.githubusercontent.com/112066277/194508324-8d228223-53e4-4448-93b9-7a630ed0f0ee.png)
 ![image](https://user-images.githubusercontent.com/112066277/194508496-e69b6d44-3958-4359-8f97-9771818c6102.png)
+## EXPERIMENT 22 OUTPUT
+![image](https://user-images.githubusercontent.com/112066277/194509012-c2e07b81-e094-4b3b-8a12-3e91c74d9fe4.png)
+
+
 
 
 
